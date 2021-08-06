@@ -4,7 +4,7 @@ Simple CRUD kontak dengan menggunakan Laravel dan Livewire
 
 ## Instalasi
 
-1. lakukan clone dengan perintah ``` git clone https://github.com/jurnalkode/larawire.git ```
+1. lakukan clone dengan perintah 
 2. Install composer ``` composer install ```
 3. Copy file **.env.example** ``` cp .env.example .env ```
 4. Generate key ``` php artisan key:generate ```
